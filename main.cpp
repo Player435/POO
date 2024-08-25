@@ -1,3 +1,6 @@
+#include<iostream>
+#include"rectangle.h"
+#include<string>
 int main() 
 {
     
